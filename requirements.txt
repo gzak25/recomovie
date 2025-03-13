@@ -1,0 +1,5 @@
+pandas
+matplotlib
+requests
+beautifulSoup4
+json

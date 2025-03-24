@@ -3,3 +3,4 @@ matplotlib
 requests
 beautifulSoup4
 json
+networkx

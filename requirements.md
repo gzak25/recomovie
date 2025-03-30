@@ -1,0 +1,12 @@
+pandas
+matplotlib
+requests
+beautifulSoup4
+json
+networkx
+fuzzywuzzy
+python-Levenshtein
+random
+time
+heapq
+collections
